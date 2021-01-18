@@ -1,6 +1,6 @@
 queries:
-  - include: 
-  
+  - include: ""
+
 extraction:
   cpp:
     index:
